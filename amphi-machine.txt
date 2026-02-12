@@ -1,1 +1,1 @@
-IV=SIG;¬DX;¬DIR;AMPHI:psych*=HV;!C|!R|!S;?→CR;DOM=E|A
+IV=SIG;¬DX;¬DIR;AMPHI:psych*=HV;!C|!R|!S;?→CR;DOM=!C
