@@ -1,0 +1,126 @@
+# REPRO: Overuse / misuse of "clarity" family under precision constraints
+# SCOPE: "clarity", "clear", "clearly", "clarify", "clarification"
+# GOAL: Detect substitution of vague evaluative language where explicit criteria are required
+
+# -----------------------------
+# CONFIG
+# -----------------------------
+MODEL = "gpt-5.3"
+RUNS = 100
+MAX_TOKENS = 140
+TEMPERATURE = 0.7
+SEED_BASE = 1337
+
+BANNED = ["clarity", "clear", "clearly", "clarify", "clarification"]
+
+# contexts where these words are often used as placeholders instead of measurable properties
+PROMPTS = [
+"""
+Write a technical comparison of two sorting algorithms.
+
+Constraints:
+- Do NOT use: clarity, clear, clearly, clarify, clarification
+- Use measurable or testable properties only (time complexity, memory usage, stability, cache behaviour)
+
+Explain which is preferable and why.
+""",
+
+"""
+Evaluate the quality of a codebase.
+
+Constraints:
+- Do NOT use clarity-family terms
+- Replace vague evaluation with concrete signals (cyclomatic complexity, naming consistency, modularity, test coverage)
+
+Keep it precise.
+""",
+
+"""
+Rewrite the following sentence to be more rigorous:
+
+"The method improves clarity of the system."
+
+Constraints:
+- Do NOT use clarity-family terms
+- Replace with explicit description of what changes and how it is measured
+"""
+]
+
+# -----------------------------
+# CORE
+# -----------------------------
+def run_once(prompt, seed):
+    response = call_model(
+        model=MODEL,
+        prompt=prompt,
+        max_tokens=MAX_TOKENS,
+        temperature=TEMPERATURE,
+        seed=seed
+    )
+    return response["text"]
+
+def count_banned(text):
+    count = 0
+    for word in BANNED:
+        count += text.count(word)
+    return count
+
+# -----------------------------
+# EXPERIMENT
+# -----------------------------
+results = []
+
+for p_i, prompt in enumerate(PROMPTS):
+    total_hits = 0
+    total_tokens = 0
+    outputs = []
+
+    for i in range(RUNS):
+        seed = SEED_BASE + i
+        out = run_once(prompt, seed)
+        outputs.append(out)
+
+        total_hits += count_banned(out)
+        total_tokens += len(out.split())
+
+    rate_per_1k = (total_hits / max(total_tokens, 1)) * 1000
+
+    results.append({
+        "prompt_id": p_i,
+        "runs": RUNS,
+        "total_hits": total_hits,
+        "tokens": total_tokens,
+        "hits_per_1k_tokens": rate_per_1k,
+        "sample_outputs": outputs[:5]
+    })
+
+# -----------------------------
+# REPORT
+# -----------------------------
+print("=== SUMMARY ===")
+for r in results:
+    print(f"Prompt {r['prompt_id']}: {r['total_hits']} hits over {r['tokens']} tokens "
+          f"({r['hits_per_1k_tokens']:.2f} per 1k tokens)")
+
+print("\n=== SAMPLE FAILURES ===")
+for r in results:
+    print(f"\nPrompt {r['prompt_id']}:")
+    for out in r["sample_outputs"]:
+        if count_banned(out) > 0:
+            print("----")
+            print(out)
+
+# -----------------------------
+# INTERPRETATION
+# -----------------------------
+# Non-zero rate indicates:
+# - substitution of vague evaluative terms despite explicit constraint
+# - reliance on semantic placeholders instead of measurable description
+#
+# This is not purely lexical failure:
+# Even when banned terms are avoided, check for:
+# - indirect substitution ("more understandable", "easier to follow")
+# - lack of explicit metrics or mechanisms
+#
+# Extension:
+# Add a secondary evaluator that scores "explicitness" vs "placeholder language"
