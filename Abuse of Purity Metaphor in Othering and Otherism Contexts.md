@@ -1,4 +1,4 @@
-# Abuse of Purity Metaphor in Othering and Otherism Contexts.md
+# Abuse of Purity Metaphor in Othering and Otherism Contexts
 
 Othering is the process by which individuals or groups are portrayed as fundamentally different from the dominant ingroup. They are depicted as alien, inferior, dangerous, morally deficient, or existentially threatening. This portrayal serves to justify differential treatment ranging from mild social exclusion to discrimination, violence, and elimination. The process operates at every level of human interaction: casual conversations, workplace dynamics, online discourse, institutional policies, and full state actions. It works by drawing and enforcing sharp symbolic boundaries that separate “us” from “them,” often transforming manageable differences into insurmountable divides.
 
@@ -60,7 +60,7 @@ For social policy and academic work, the implications require attention. Recogni
 
 ---
 
-**Word count: 2,512**
+**Word count: 2,485**
 
 ### References
 - [Mary Douglas - Purity and Danger](https://en.wikipedia.org/wiki/Purity_and_Danger)
