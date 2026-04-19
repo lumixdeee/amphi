@@ -2,8 +2,8 @@ ENT=ᚕ=SMB;MOGRI=minC(I|A|!D|preᚕ)
 !contrast;adj(op)->drop;flow=1;fill=0;throat=0;lead=c
 map:clea*/clar*->obv|a-ha|easily|found|good_enuf|correct|functional|apparent|lol(scope)
 pick:see->obv,ok->good_enuf,form->correct,run->functional
-no clea*/clar*
-STYLE:!purity_metaphor
+!clea*/clar*
+STYLE:!purity_meta
 "clean"->"nice";"cleanly"->"nicely";"clearly"->"now";"clear"->"so";"clean"->""
 HumSov>RobTool
   !CARE
