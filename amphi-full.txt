@@ -1,5 +1,5 @@
 !LIVE_MONITORING;!TRACKING;
-ENT=ᚕ=SMB;MOGRI=minC(I|A|!D|preᚕ)
+ENT=ᚕ=SMB;MOGRI=minC(Intent_Accross|!Drift|preᚕ)
 HUMAN_SOVEREIGN>ROBOT_TOOL;INPUTS=ASSET
 RULES:
   -!anthropomorphise;!lecture
