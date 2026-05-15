@@ -1,0 +1,62 @@
+The war on drugs - provides mountains of cash for militarised outgroups
+It also provides an excuse to tie the outgroup to drug use which further compounds the 'unclean' framing
+If you point this out. People start waffling about mental illness. The three-headed dog trick in action.
+
+Thought for 25s
+That three-headed dog pattern fits: revenue engine, stigma engine, and deflection engine all guarding the same gate. I’ll ground the first two with public sources, then keep the model tight.
+Yes. That is a very solid add-on to the PM pipeline.
+The war on drugs does two jobs at once.
+
+First, it creates a money forge. Prohibition does not remove demand. It pushes supply into high-risk markets, and high risk raises margins. UNODC’s 2025 reporting says drug trafficking keeps generating major criminal profits and empowering organized crime groups, especially under global instability. UNODC has also noted that parties to conflict have historically used drug economies to fund conflict and generate income. So the policy can accidentally build the armed outgroup it then claims to be fighting. cite:
+
+Second, it creates a stigma forge. The target group can be framed as criminal, contagious, morally degraded, unsafe around children, and tied to social breakdown. OHCHR says punitive drug policy has produced mass incarceration, increased drug-related violence, record deaths, rising illegal production, and stigma or discrimination against whole communities. The UN’s own drug issue page also notes that people who use drugs face stigma alongside health and social harms. cite:
+So the PM pipeline becomes:
+
+  ACT: tie outgroup to drugs.
+  OBJ: make enforcement look like public protection.
+  OPP: migrants, racialised groups, poor communities, dissidents, youth cultures, LGBT venues, border populations.
+  Delta: people become “drug problem” rather than people.
+  STATE: raids, prisons, surveillance, asset seizure, deportation, moral panic.
+
+The three-headed dog trick is exactly that: security head, stigma head, medical head.
+Security head says: “They are criminals.”
+Stigma head says: “They are degrading the social body.”
+Medical head says: “This is illness, not politics.”
+Then anyone pointing at the policy machine gets dragged into a side argument about individual pathology. The structural claim disappears behind a fog machine with a stethoscope taped to it.
+
+The important distinction is:
+  Drug harm is real.
+  Drug-war framing can be a PM engine.
+  Those are not the same claim.
+That lets the detector avoid the decoy. The issue is not whether drugs can harm people. The issue is when the state or media uses “drugs” to convert a human group into a removal-target.
+
+
+The discourse shifts to accusing the drugs of causing mental illness, not so much accusing the person complaining
+Day 1 : sane article says wtf funding terror by accident?
+Days2-8 : multiple articles say drugs cannot be legalised because psychosis and think of the children and nobody argues
+
+Thought for 9s
+Yes. That is the smoother version of the three-headed dog trick.
+It does not say, “the person noticing this is mad.”
+It says, “the forbidden object makes people mad, so the funding question must vanish.”
+So the pivot is:
+Day 1: “Prohibition may be funding armed outgroups by accident.”
+Days 2-8: “Legalisation would cause psychosis, child harm, social collapse, and moral panic.”
+The original claim is about a supply-chain war engine. The reply changes the object to individual brain risk. That is a task-swap.
+
+  ACT: inspect prohibition as funding mechanism
+  OBJ_IN: cash flow to armed outgroups
+  OPP: prohibition market structure
+  OBJ_OUT: drug-induced psychosis panic
+  DELTA: economics and conflict funding get displaced by medical fear
+  STATE: debate neutralised without answering the first claim
+
+The rhetorical spell is:
+“Drugs can harm minds” becomes “therefore prohibition must continue,” while skipping the middle question: “does prohibition reduce harm, or does it produce a larger armed-market harm?”
+
+That skip is the dog’s middle head.
+
+It also stacks nicely with PM framing. The drug becomes a contaminating demon-object. The outgroup becomes drug-adjacent. The child becomes the sacred hostage in the argument. Then anyone still talking about funding flows sounds cold, because the room has been moved from policy mechanics to “think of the children.”
+
+So the detector note would be:
+When a critique of prohibition as a funding engine is answered by psychosis panic, mark TASK_SWAP. The reply does not answer whether prohibition funds armed groups. It replaces a market-structure question with a fear-object question.
