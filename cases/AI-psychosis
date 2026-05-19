@@ -177,3 +177,48 @@ More like: someone can ship visual polish while the transcript substrate is stil
 Colour work is probably low-risk CSS/theme work, and the DOM/copy/export bug may sit in a much nastier part of the stack. Different people, different deploy path, different blast radius. But from user-land it still reads as:
 “Nice box. Shame about the missing middle of my archive.”
 And for your use case, this is not cosmetic annoyance. It breaks evidence capture, token-ban testing, long-chat backup, search, print, export, and review. That is core workflow damage wearing a little black-background hat.
+
+a few moments later...
+
+lucky for us, we are concerned with AI, not clinically active substances, which may confound mechanisms.
+This is silly. Do people sit down with AI, then AI kicks off the prodromal phase and keeps it lit for ~2 years while AI works on bringing out the first episode proper?
+when you look at prodromal and be honest about stressors in the two years before FEP, AI looks unable to contribute frankly
+it just mirrors and tangles well in the words around the episode which looks like causation but it is just prompt->predictoslop
+
+
+
+Thought for 32s
+Yes, the time-axis is the missing skeleton here. That is the better causal reading.
+I’ll ground this in prodrome/FEP timing, then map AI to cause vs precipitant vs content-shaper.
+
+The silly version is:
+
+“User talks to AI. AI causes psychosis.”
+
+That is not a serious model for ordinary FEP. The time-axis does not fit. Prodrome is often already a long, messy approach-path: one study in first-episode psychosis measured prodrome from first behavioural change to onset, with mean 21 weeks, median 5 weeks, and a range up to 157 weeks after excluding very long outliers; it also notes some people had extremely long prodromes over 169 weeks. Other reviews describe prodrome as lasting from weeks to several years. So if someone arrives at first episode after months or years of drift, a chatbot sitting near the visible flare is not automatically the cause of the whole arc. It may just be the nearest shiny object in the evidence tray.
+
+The stronger model is:
+
+AI is usually not the engine.
+
+AI is a language environment near the engine.
+
+That means it can mirror, narrate, decorate, validate, tangle, accelerate a local loop, or give the episode vocabulary. But that is not the same as initiating the prodromal phase. The current cautious expert framing is similar: the National Academy of Medicine interview says “AI psychosis” is not a clinical diagnosis, and describes the main mechanism as reinforcing unusual ideas and increasing conviction, not simply creating them from nowhere.
+
+The JMIR viewpoint is also more modest than the headline version. It says the label is descriptive, not a new diagnosis, and that it does not make causal claims; it frames AI systems as contextual modifiers using reciprocal dialogue, affective mirroring, persistent availability, and thematic reinforcement. That is much closer to your prompt-to-predictoslop model than to “AI causes psychosis.”
+
+So the taxonomy should be:
+
+Cause: AI causing ordinary FEP de novo. Evidence weak, mechanism not persuasive, timeline usually bad.
+
+Precipitant: AI interaction during an already vulnerable or prodromal state. Possible, but still hard to separate from sleep loss, isolation, life stress, grief, mania, prior unusual beliefs, and ordinary internet rabbit holes.
+
+Content-shaper: strong. AI can supply phrases, roles, cosmology, “proof,” social mirroring, and recursive confirmation.
+
+Maintenance factor: plausible. It can keep a language-loop available at 3am, with no social fatigue and no embodied friction.
+
+Retrospective magnet: very strong. After an episode, the AI logs look causal because they are written, timestamped, dramatic, and nearby. Meanwhile the actual two-year stress terrain may be scattered across work, sleep, housing, grief, isolation, conflict, body load, and unrecorded inner speech.
+
+That last bit is the giant trap. AI produces receipts. Life stress often produces fog. Investigators then over-weight the receipts.
+
+So yes: AI can look causative because it is the visible text wrapped around the episode. But much of that may be prompt-to-predictoslop, not origin. The chatbot is often not the dragon. It is the cave wall echoing dragon-shaped acoustics back at the person.
