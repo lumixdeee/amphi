@@ -1,0 +1,242 @@
+P1: CONTENT (Claims Extracted, No Evaluation)
+
+Core claims:
+
+The common picture of work overemphasizes creation and underemphasizes maintenance.
+A significant portion of organizational work is the maintenance of meaning rather than the production of artifacts.
+Goals frequently undergo gradual transformation while retaining their original labels.
+This transformation often occurs without malice or conscious intent.
+Many apparently distinct failure modes (requirements drift, scope creep, changing definitions, stakeholder disagreement, etc.) may be manifestations of a common underlying process.
+Meaning can enter a system and leave a system in a non-identical form.
+Recovering, translating, and repairing damaged meaning constitutes a large amount of hidden labor.
+Many professional roles can be understood as semantic repair functions.
+Semantic maintenance costs increase with organizational scale.
+Large language models expose semantic transformation processes because they perform rapid representational changes.
+Human institutions and language models both substitute neighboring objectives for original objectives.
+Existing fields focus more on creating meaning than preserving it.
+Civilization may devote substantial resources to repairing semantic damage.
+Semantic maintenance deserves treatment as an independent discipline.
+The central question is not merely how ideas are created, but how they are preserved.
+P2: STRUCTURE
+
+Observed organization:
+
+Opening challenge to a familiar assumption.
+Concrete example (safety → incidents → metrics → dashboard score).
+Generalization from example to broader phenomenon.
+Expansion across domains (projects, organizations, science, conversations).
+Reframing of multiple failure categories as manifestations of one process.
+Identification of hidden labor.
+Scaling argument (small teams versus large institutions).
+LLM section used as observational accelerator.
+Transition from observation to proposed field of study.
+Ends with an open question.
+
+Structural pattern:
+
+Visible output → hidden maintenance burden → generalized mechanism → technological lens → proposed discipline.
+
+The chapter repeatedly compresses many phenomena into a single explanatory frame:
+
+semantic preservation failure
+
+This creates strong conceptual coherence and gives the chapter a clear object.
+
+P3: EXECUTION
+
+Current operation performed by the text:
+
+The text begins as observation.
+It gradually constructs a unifying explanatory model.
+It introduces terminology indirectly before naming it.
+It attempts to make readers reinterpret familiar organizational failures through a single lens.
+
+Notable execution move:
+
+The text repeatedly converts plural explanations into one underlying explanation.
+
+Examples:
+
+requirements failure
+scope drift
+changing priorities
+stakeholder disagreement
+
+↓
+
+semantic maintenance failure
+
+This is the chapter's primary compression operation.
+
+The LLM section serves as an observational instrument rather than the main subject.
+
+LLMs are presented as:
+
+faster versions of a process already present in institutions.
+
+That move prevents the book from becoming an AI book and keeps the object centered on semantic preservation.
+
+P4: AUDIT
+Evidence provided
+
+Mostly:
+
+intuitive examples
+organizational observations
+conceptual reasoning
+
+Not yet provided:
+
+empirical measurements
+case studies
+quantified maintenance costs
+historical examples
+
+This is appropriate for an opening chapter, but it means the argument currently rests on plausibility rather than demonstration.
+
+Assumptions suspended
+
+The chapter implicitly assumes:
+
+Meaning is sufficiently stable to be preserved.
+Original intent is often recoverable.
+Drift can be distinguished from legitimate adaptation.
+Preservation is sometimes preferable to transformation.
+
+These assumptions are not yet defended.
+
+What actions follow?
+
+If accepted, the reader is encouraged to:
+
+look for semantic drift
+treat translation as work
+treat preservation as a first-class concern
+investigate failures as representational transformations
+Who benefits?
+
+Potential beneficiaries:
+
+organizations
+project teams
+governance systems
+AI alignment work
+communication-heavy professions
+Critical Supports
+
+The book's framework appears to depend on three supports:
+
+Support 1: Meaning can be tracked
+
+If meaning cannot be tracked across transformations, semantic maintenance becomes immeasurable.
+
+Support 2: Drift is detectable
+
+If all reinterpretation is considered normal evolution, there is no maintenance problem.
+
+Support 3: Preservation can be distinguished from adaptation
+
+Without this distinction:
+
+every change becomes acceptable
+or
+every change becomes failure
+
+The framework needs a middle category.
+
+Blind Spots
+Blind Spot 1: Drift versus learning
+
+The chapter currently treats change and loss as closely related.
+
+A future reader may ask:
+
+How do we distinguish semantic damage from genuine improvement?
+
+Example:
+
+Original request:
+"make users safe"
+
+Later refinement:
+"reduce a specific failure mode"
+
+That may be preservation through clarification rather than drift.
+
+The framework will need a criterion.
+
+Blind Spot 2: Original intent may be internally inconsistent
+
+The opening example assumes a coherent original object.
+
+In practice many requests contain:
+
+contradictions
+ambiguity
+unstated tradeoffs
+
+Sometimes later transformations are attempts to resolve those conflicts rather than semantic damage.
+
+Blind Spot 3: Preservation may not be the primary objective
+
+Organizations sometimes intentionally trade fidelity for:
+
+speed
+scale
+coordination
+legal defensibility
+
+The framework may need to explain why semantic loss occurs even when participants understand the loss.
+
+Blind Spot 4: Meaning is treated as singular
+
+The chapter often speaks as if:
+
+meaning entered the system
+
+Yet many organizational situations begin with multiple meanings simultaneously.
+
+Different stakeholders may already carry different objects before any drift occurs.
+
+Adversarial Review
+
+Strongest challenge to the chapter:
+
+The proposed unifying mechanism may be too powerful.
+
+Many introductory frameworks become attractive because they explain everything.
+
+A skeptical reader could argue:
+
+scope creep is not semantic drift
+incentive problems are not semantic drift
+political conflict is not semantic drift
+principal-agent failures are not semantic drift
+
+To survive this challenge, the book will eventually need to show either:
+
+these phenomena are genuinely downstream of semantic maintenance failures,
+
+or
+
+semantic maintenance is a necessary component within them.
+
+Without that demonstration, the framework risks becoming a universal explanatory solvent.
+
+What Changed?
+
+Initial state:
+
+Work appears to be creation.
+
+Final state:
+
+Creation is visible, but a substantial fraction of work may actually be preserving meaning as representations move through systems.
+
+Δ:
+
+The object of attention shifts from production to preservation.
+
+That is the chapter's primary contribution. It does not yet prove the thesis, but it successfully establishes a coherent question:
+
+Once an idea exists, what exactly must remain invariant for us to say the same idea survived?
