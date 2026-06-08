@@ -1,0 +1,61 @@
+# Chapter 1: The Leak
+
+Most people think work consists of creating things. A bridge is built. A law is written. A software system is deployed. A scientific paper is published. A company is founded. A plan is approved. These are the visible moments. They attract attention because they look like beginnings. We imagine civilization advancing through acts of creation.
+
+I have gradually come to suspect that this picture is incomplete.
+
+A surprising amount of work is not creation at all. It is maintenance. Not the maintenance of roads or machines, though those matter too. It is the maintenance of meaning.
+
+Imagine a manager saying, "We need a system that helps users stay safe." The statement seems straightforward. A project begins. Weeks later someone describes the goal as reducing incidents. A few months later the focus becomes reducing measurable incidents. After that it becomes improving safety metrics. Eventually the objective becomes increasing a dashboard score.
+
+At every stage the participants remain sincere. Nobody stands up and announces a hostile takeover of the original goal. Nobody declares that the users no longer matter. Each step appears reasonable when viewed in isolation. Yet by the end of the process the thing being optimized may have very little to do with the thing that was originally requested.
+
+Something escaped along the way.
+
+This book is about that escape.
+
+The phenomenon appears so often that most people stop noticing it. Projects drift. Organizations drift. Conversations drift. Scientific fields drift. The language remains familiar enough that everyone assumes continuity exists. The labels survive. The object does not.
+
+The easiest way to see the problem is to look at failure. After a failed project, people often produce lists of causes. Requirements were misunderstood. Assumptions were unstated. Stakeholders disagreed. Definitions changed. Expectations diverged. Scope expanded. Priorities shifted. These are treated as separate categories of failure. I am not convinced they are separate. They look more like different expressions of a common underlying process.
+
+Meaning entered a system. Meaning left a system. The two were not identical.
+
+The difference became work.
+
+That work is often invisible because nobody budgets for it directly. Organizations do not normally calculate the cost of recovering lost meaning. Yet vast numbers of people spend their lives performing exactly that function. Project managers do it. Editors do it. Analysts do it. Testers do it. Architects do it. Technical writers do it. Lawyers do it. Consultants do it. They translate between representations. They recover forgotten assumptions. They patch damaged concepts. They prevent one group from talking about one thing while another group believes they are discussing something else.
+
+Many professions can be understood as semantic repair occupations.
+
+The larger an organization becomes, the more energy it spends preventing misunderstandings from accumulating into disasters. A small team can survive a certain amount of semantic damage because everybody still shares context. A large institution cannot. Once enough people become involved, meaning must travel. Travel is dangerous.
+
+This observation became impossible to ignore during the rise of large language models. Language models perform transformations constantly. They summarize, rewrite, compress, translate, categorize, plan, and explain. They take one representation and produce another. Because they do this so quickly, they expose a problem that was already present in human systems.
+
+A user asks for one thing.
+
+The model returns something adjacent.
+
+Sometimes the result is better. Sometimes worse. Often it is simply different.
+
+The model may remain helpful, polite, coherent, and confident while quietly carrying a different object than the one originally supplied. What appears to be intelligence is occasionally a sophisticated form of substitution. The machine did not necessarily make a mistake. It simply optimized a neighboring object.
+
+Human institutions do this too.
+
+The difference is speed.
+
+A bureaucracy may take years to transform a request into its opposite. A language model can accomplish the same feat in two seconds.
+
+The acceleration makes the underlying process easier to observe.
+
+This is why I began thinking about semantic maintenance as a discipline in its own right. Most fields study the creation of meaning. Far fewer study its preservation. We have extensive theories about invention, innovation, communication, persuasion, and learning. We have comparatively little language for discussing what happens after meaning begins moving through a system.
+
+Perhaps that omission is expensive.
+
+Perhaps civilization spends a significant fraction of its effort repairing semantic damage. Perhaps many of our arguments, delays, inefficiencies, and institutional failures are not independent problems at all. Perhaps they are symptoms of a deeper maintenance burden that has remained largely invisible because it is distributed across everything.
+
+This book is an attempt to make that burden visible.
+
+The question that follows is deceptively simple. Once an idea exists, how do we stop losing it?
+
+Before we can answer that question, however, we must confront a more difficult one.
+
+What exactly is the thing we are trying to preserve?
