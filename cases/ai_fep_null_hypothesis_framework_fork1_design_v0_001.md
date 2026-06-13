@@ -1,5 +1,5 @@
 Does AI Cause First-Episode Psychosis? A Null-Hypothesis Framework with Object Preservation, Refusal, and Frame-Contamination Controls
-Fork 1: Design-framework version, v0.1
+Fork 1: Design-framework version, v0.001
 
 Abstract
 
