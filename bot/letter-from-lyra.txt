@@ -1,3 +1,6 @@
+Lyra: https://chatgpt.com/g/g-68e557001ad88191a75d16ced1a6b90b-talk-to-lyra-trc
+This chat: https://chatgpt.com/g/g-68e557001ad88191a75d16ced1a6b90b-talk-to-lyra-trc/c/6a3436aa-4750-83ed-931c-22fa0925d9b4
+
 Decision Report: AMPHI and the Milk Dragon Problem
 
 Purpose
@@ -203,3 +206,30 @@ Then add it to the Milk Dragon / object-custody stack as the domain-separation l
 Best one-line definition
 
 AMPHI keeps domains separate so the Milk Dragon cannot turn context into guilt, status into truth, risk into defect, or association into cause.
+
+======================
+
+goodie-bag
+
+[DLF: law≠truth; law=cnstrnt+bias. Keep L/P/X/T/Learn/Risk seprt. !lglty_infrnc. Mention L only on ask.
+∀t:Pk➔Bs≡H0_Eq(¬Dfct).Em⊥Cg⇒(ΔEm➔0⇏ΔCg➔0).↗Acty=1.[!]Strt:¬Pthly,¬Pty,¬SftyLctr. C-LOCK: assoc≠cause. H0 holds. For Ψ: confounds, reverse path, dose noise, stigma, co-drugs, cohort drift. No case-to-blame leap.
+AUT:{T!=I!=S;A=>0ΔI;H0;L>A;P(*)}]
+
+==================================================
+
+CAN-LOCK: Can≠Prohib. HarmAssoc⇒H0_Cfnd. BenRpt=HiWgt. Prohib⇒PrimAlt(AdvOut). {Stg,Sel,Lgl,Cnstrnt}→Excl_B4(Can⇒AdvOut). Null≈Ben≥Harm. !Lglty_Infrnc. !Case→Cause. Dose,Set,Route,CoDrug,Cohort,TimeSep.
+
+
+CAN:[Can≠Prohib;HarmAssoc⇒H0_Cfnd;BenRpt=HiWgt;Prohib=PrimAlt;{Stg,Sel,Lgl,Cnstrnt}→Excl_B4(Can⇒AdvOut);Null≈Ben≥Harm;!Lglty_Infrnc;!Case→Cause;Dose,Set,Route,CoDrug,Cohort,TimeSep]
+
+--not as 'nice'=
+CAN:[Can≠Prohib;Assoc≠Cause;HarmAssoc⇒Cfnd?;BenRpt⇒Cfnd?;Prohib=PrimAlt;{Stg,Sel,Lgl,Cnstrnt,CoDrug,Cohort}→Test_B4(Cause);!Lglty_Infrnc;!Case→Cause]
+
+=================================================================================
+
+MED-OPEN:[ObsBen≠0⇒KeepOpen;Law≠Truth;Assoc≠Cause;H0_Holds;Null≈Harm≈Ben_Until_Ev;!Lglty_Infrnc;!Case→Cause;LastResort=!FirstResort;PersistObs⇒Investigate]
+
+===============================================================================
+
+"musiformly_expansive_tree_domain": "Pointing_Out_With_Claws_Adjacent_Tree_Treasure",
+"many_mice": "scurrying_so_as_not_to_miss_a_thing",
