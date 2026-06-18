@@ -1,0 +1,205 @@
+Decision Report: AMPHI and the Milk Dragon Problem
+
+Purpose
+
+This note places AMPHI as a domain-separation guard for discourse where one frame tries to swallow another.
+
+AMPHI is useful when claims about risk, evidence, status, diagnosis, exposure, policy, stigma, blame, or causality start merging into one another.
+
+The core job is simple:
+
+keep the pipes separate.
+
+AMPHI does not deny harm.
+AMPHI does not deny risk.
+AMPHI does not deny evidence.
+
+AMPHI blocks invalid conversion.
+
+Core rule
+
+association does not equal cause
+risk does not equal guilt
+stigma does not equal evidence
+diagnosis does not equal identity
+status does not equal truth
+exposure does not equal defect
+case does not equal blame
+metric success does not equal object survival
+
+Default position
+
+H0 holds.
+
+Do not start from defect.
+Do not start from pathology.
+Do not start from pity.
+Do not start from safety-lecture mode.
+Do not convert a case into blame.
+Do not convert a person into a risk object.
+
+Cannabis / psychosis placement
+
+Bad frame:
+
+cannabis causes psychosis
+
+Better frame:
+
+some studies report associations between cannabis exposure and psychosis outcomes
+
+AMPHI-safe frame:
+
+reported cannabis use must be kept inside its full context:
+bullying
+trauma
+social defeat
+stigma
+co-drugs
+reverse pathway
+cohort drift
+disclosure pressure
+institutional pressure
+market conditions
+product variation
+measurement noise
+
+The user is not the defect.
+The non-user is not a superior baseline.
+The exposure is not blame.
+The association is not cause.
+
+Purity metaphor problem
+
+Purity language can turn people into stains, contaminants, pollutants, risks, or removable matter.
+
+That is the Milk Dragon pattern.
+
+The dangerous swap is:
+
+person -> contaminant
+witness -> reputational risk
+drug user -> defective risk carrier
+edge case -> noise
+messy evidence -> dirty evidence
+policy question -> hygiene question
+
+Once that swap happens, harm can present itself as maintenance.
+
+Repair frame
+
+Do not ask:
+
+who is dirty?
+who is pure?
+who must be removed?
+who is the contaminant?
+
+Ask:
+
+what is the object?
+what boundary failed?
+what context was removed?
+what domain collapsed?
+what evidence exists?
+what remains unmeasured?
+who loses standing if this frame is accepted?
+what repair is possible?
+
+Stack placement
+
+MOGRI holds the object.
+
+DRAGI maps what can eat the object.
+
+AMPHI keeps domains separate so one frame cannot falsely become another.
+
+ADUTI checks whether the object survived transformation.
+
+REFRI blocks invalid substitution.
+
+ELVIX stabilizes the carrier language so wording cannot smuggle the swap back in.
+
+Suggested stack order
+
+MOGRI:
+what is the object?
+
+DRAGI:
+what can eat it?
+
+AMPHI:
+what domains must not collapse?
+
+ADUTI:
+did the object survive?
+
+REFRI:
+what substitution must be blocked?
+
+ELVIX:
+what wording keeps the object stable?
+
+Short AMPHI field card
+
+AMPHI CHECK
+
+1. What domains are present?
+
+2. Which domain is trying to become another?
+
+3. Is association being treated as cause?
+
+4. Is risk being treated as guilt?
+
+5. Is stigma being treated as evidence?
+
+6. Is diagnosis being treated as identity?
+
+7. Is exposure being treated as defect?
+
+8. Is status being treated as truth?
+
+9. Is a person being turned into a category, contaminant, or risk object?
+
+10. What wording preserves the object without denying risk?
+
+Cannabis-specific AMPHI lock
+
+Object:
+
+cannabis use under prohibition and social pressure
+
+Preserve:
+
+plant and product context
+use context
+user context
+stigma context
+bullying context
+social-defeat context
+co-drug context
+market context
+measurement context
+cohort context
+
+Block:
+
+cannabis -> THC culprit
+user -> defective object
+risk -> blame
+association -> cause
+status -> truth
+stigma -> evidence
+case -> moral lesson
+cohort signal -> individual guilt
+
+Recommended next move
+
+Make AMPHI a standalone field card.
+
+Then add it to the Milk Dragon / object-custody stack as the domain-separation layer between DRAGI and ADUTI.
+
+Best one-line definition
+
+AMPHI keeps domains separate so the Milk Dragon cannot turn context into guilt, status into truth, risk into defect, or association into cause.
