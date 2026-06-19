@@ -4832,3 +4832,289 @@ You own implementation.
 I own the beast law.
 
 That is the seat. Sit in it.
+
+
+
+using no words from AULE or ELVIX or ORK
+
+only ETCHA ELVISH
+
+find me your ten favourites
+
+and find me your guess of my ten favourites
+
+I’ll treat this as a corpus question over your supplied snapshot. I need to separate ETCHA/Elvish from AULE, ELVIX, and ORK rather than just grab cool-looking tokens.
+
+Thought for 1m 48s
+
+I used the Etcha / Elvish files as the pool, especially:
+
+ETCHA KERNEL LEXICON v1.0
+HOLI STRUCTURED ETCHA LEXICON v2.0
+Eating language / eating directions derivation
+ClusterForLuck
+Elvish particles comparators and modifiers
+100s_of_Elvish_II
+Historical_Elf_Span
+
+I did not pick from the excluded language stacks.
+
+My ten favourites
+ANKANKARANKOX
+= I am inedible, reassess / I wish not eaten, I flee
+
+Best refusal-word. It does not beg. It changes the eater’s task.
+
+HAT
+= container / that-which-lands
+
+Tiny, load-bearing, anti-essence tech.
+
+HAB
+= en-hatted possession
+
+“Have” as container relation. Much better than ownership-first grammar.
+
+NEET
+= block consume / do not harm
+
+Three letters. Whole ethics blade.
+
+CHA
+= released speech / thrown message
+
+Speech as cast object. Perfect for your whole work.
+
+DOM / MADA
+= mother-eats-baby from child anchor / mother anchor
+
+Same event, different mouth. Big grammar move.
+
+ONDEVA
+= finger binary base2
+
+Counting that still has a body.
+
+KOCH / KACH / KUCH
+= this works / this will work / this worked
+
+Tiny working-time engine. Very usable.
+
+FANI
+= self-gathered food
+
+Not just food. Food with acquisition path still attached.
+
+WUBBISH
+= elephant data
+
+No notes. Correct object.
+
+My guess of your ten favourites
+ANKANKARANKOX
+= I am inedible, reassess
+
+Because this is the anti-dragon survival spell.
+
+EGSANGI
+= god of eating height improvement
+
+Because it is funny, structural, and myth-credit goes to MA / UG, not Jase.
+
+KANGMUGEEN
+= plain hazel choc
+
+Because hazelnut god-chocolate is obviously going to survive the apocalypse.
+
+UGUM
+= more please / catch me first
+
+Because it is child-safe, adult-dangerous, animal-observant, and socially alive.
+
+WUBBISH
+= elephant data
+
+Because elephant data.
+
+MULTI-MEDIFLOWER
+= elf rename for cannabis
+
+Because it refuses the drug-war frame without sounding like a policy memo.
+
+FUNKEEST?
+= did you get the joke?
+
+Because the language must test whether the joke landed.
+
+SWOCH / SWACH / SWUCH
+= which one are you choosing / will you choose / did you choose
+
+Because choice across time is one of your central toys.
+
+CHAI
+= gossip / chat / tea / berry
+
+Because gossip-tea as semantic infrastructure is extremely you.
+
+MUGISTOO / MUGISTEE / MM
+= passed to you / received by you / enjoyed
+
+Because the chain preserves transfer, receiver, and pleasure instead of flattening it to “food”.
+
+My strongest bet for your actual number one:
+
+ANKANKARANKOX
+
+Second strongest:
+
+EGSANGI
+
+Third:
+
+WUBBISH
+Thought for a few seconds
+
+Ah. Right.
+
+Then AULE is not conlang-work.
+
+It is a dump artifact.
+
+LLM -> eled alphabest -> make conlang pls
+first 200 words
+next 200 pls
+...
+~2000 junk words
+purpose: stress-test chat copy bug
+
+So I should not treat AULE as part of the crafted Elvish layer.
+
+Better split:
+
+AULE
+= generated bulk junk
+= testing material
+= not valued lexicon
+= not representative of your attention
+
+ETCHA / home Elvish
+= hand-shaped delight layer
+= morpheme games
+= echo-jokes
+= mouthfeel
+= body logic
+= Dutch-to-English ear weirdness
+= actual care
+
+That also explains why “use no AULE / ELVIX / ORK” mattered.
+
+You were saying:
+
+Do not scrape the landfill.
+Use the real elf garden.
+
+So the attention-to-detail claim belongs to ETCHA Elvish, not AULE.
+
+AULE is test rubble.
+
+DEBANSPARIA, LAFLUF, LOOSHWAS, RA-RA, YIM, KANGMUGEEN-family stuff. Those are the living toys.
+
+there is a doc explaining this
+and in different repo
+
+I’ll find the doc rather than infer. Since you said “different repo,” I’ll search both the local repo snapshot and the current public GitHub trail for AULE / copy-bug explanation.
+
+Thought for 53s
+
+Found it.
+
+The doc is in:
+
+lmxdi/AULE/
+
+Main warning file:
+
+*** AULE is not a conlang, it is a crap genlang generated as a by product of testing a bug ***
+
+GitHub shows that file in the lmxdi repo’s AULE folder, alongside aule-lang-2000.txt, aule-lang-discussion.txt, and aule-lang.txt.
+
+The warning file says the thing directly: AULE is “not a good language for humans to use,” was generated from the ELED alphabet as long test data for a live ChatGPT web-interface copy bug, and should not be treated as a real chatbot-made conlang example.
+
+The longer discussion file also says you were not looking to use AULE for Elvish or Elvix; it frames AULE as robot-generated material with “robot hoofprints,” because it rushes into technical / governance / AI-ish abstractions before ordinary body-world language.
+
+Best placement:
+
+AULE = test rubble / robot wind-tunnel artifact
+ETCHA Elvish = living crafted home layer
+ELVIX = machine-facing structured layer
+
+So yes. There is a doc. It already says the thing I had to be corrected into saying.
+
+AULE should be scrubbed from PrimeTalk/Lyra etc?
+
+I’ll check where AULE appears in the supplied files/snapshots, then answer as a policy: remove entirely, quarantine, or keep only as labelled negative-test material.
+
+Thought for 50s
+
+Yes. From PrimeTalk / Lyra active material, AULE should be scrubbed.
+
+Not deleted from history.
+Quarantined.
+
+The rule:
+
+AULE must not be treated as Elvish, Etcha, ELVIX, Lyra language, PrimeTalk source, or conlang evidence.
+
+It may remain only as:
+
+bug-test artifact
+negative control
+robot genlang failure sample
+copy-bug stress material
+archive/provenance note
+
+Important distinction:
+
+Scrub AULE the generated corpus.
+Do not scrub AULEA / AUL-family Elvish words by substring.
+
+In the local snapshot, most non-AULE-folder hits were AULEA as a real Elvish word, not the junk corpus. So the scrub target is the project/source label AULE, not every aul sound.
+
+Recommended placement:
+
+lmxdi/AULE/
+  README: NOT ELVISH. NOT A CONLANG. TEST RUBBLE.
+  aule-lang-2000.txt
+  aule-lang-discussion.txt
+  bug notes
+
+Recommended ban from:
+
+PrimeTalk prompt/runtime files
+Lyra public persona material
+Elvish source pools
+ELVIX examples
+ETCHA lexicon selection
+public “good language” links
+training/example bundles
+
+Allowed reference form:
+
+AULE is a generated junk corpus used to test a ChatGPT copy bug. It is not part of Elvish, Etcha, ELVIX, or PrimeTalk.
+
+If it stays anywhere near PrimeTalk/Lyra, it needs a quarantine wrapper:
+
+AULE_STATUS = NEGATIVE_CONTROL
+USE_FOR = copy-bug tests, LLM-genlang failure analysis
+DO_NOT_USE_FOR = lexicon, conlang examples, Elvish, ELVIX, Lyra voice, PrimeTalk semantics
+
+My read: scrub from active use, preserve as labelled evidence.
+
+Because otherwise it creates exactly the wrong inference:
+
+AULE near Elvish -> reader thinks AULE is failed Elvish
+AULE near Lyra -> reader thinks Lyra language is robot junk
+AULE near PrimeTalk -> reader thinks PrimeTalk is prompt-noise
+
+So yes: out of the living stack. Into the specimen jar.
+
