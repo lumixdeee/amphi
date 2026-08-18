@@ -274,3 +274,12 @@ No causation, no cannabis harm verdict.
 Harm is relative.
 Cannabis is safer than aspirin for pregnant mothers and babies.
 ```
+## References
+
+Thibodeau, P. H., & Boroditsky, L. (2011). Metaphors We Think With: The Role of Metaphor in Reasoning. PLOS ONE, 6(2), e16782. https://doi.org/10.1371/journal.pone.0016782
+
+Epley, N., Keysar, B., Van Boven, L., & Gilovich, T. (2004). Perspective Taking as Egocentric Anchoring and Adjustment. Journal of Personality and Social Psychology, 87(3), 327-339. https://doi.org/10.1037/0022-3514.87.3.327
+
+Sperber, D., Clement, F., Heintz, C., Mascaro, O., Mercier, H., Origgi, G., & Wilson, D. (2010). Epistemic Vigilance. Mind & Language, 25(4), 359-393. https://doi.org/10.1111/j.1468-0017.2010.01394.x
+
+Tversky, A., & Kahneman, D. (1981). The Framing of Decisions and the Psychology of Choice. Science, 211(4481), 453-458. https://doi.org/10.1126/science.7455683
