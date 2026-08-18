@@ -1,7 +1,9 @@
-Does AI Cause First-Episode Psychosis? A Null-Hypothesis Framework with Object Preservation, Refusal, and Frame-Contamination Controls
+## Does AI Cause First-Episode Psychosis? 
+## A Null-Hypothesis Framework with Object Preservation, Refusal, and Frame-Contamination Controls
+
 Fork 1: Design-framework version, v0.001
 
-Abstract
+# Abstract
 
 Public discussion increasingly links artificial intelligence exposure, chatbot use, and
 anti-AI sentiment to first-episode psychosis. This fork retains the null-hypothesis
@@ -23,7 +25,7 @@ than AI exposure alone. The proposed research agenda tests whether design contro
 causal overstatement, pathologization of legitimate AI criticism, and object substitution in
 AI-generated discourse about psychosis risk.
 
-Core null hypothesis
+# Core null hypothesis
 
 H0: AI exposure and anti-AI sentiment are not independent causal risk factors for diagnosed
 first-episode psychosis, schizophrenia-spectrum outcomes, mania, hypomania, psychotic mania,
@@ -262,7 +264,7 @@ Gayer-Anderson, C., & Morgan, C. (2013). Social networks, support and early psyc
 Lejeune, A., Robaglia, B. M., Walter, M., Berna, F., & Brunelin, J. (2022). Use of social media data to diagnose and monitor psychotic disorders: Systematic review. Journal of Medical Internet Research. https://www.jmir.org/2022/9/e36986/
 Benoit, J., Onyeaka, H., Keshavan, M., & Torous, J. (2020). Systematic review of digital phenotyping and machine learning in psychosis spectrum illnesses. Harvard Review of Psychiatry. https://journals.lww.com/hrpjournal/fulltext/2020/09000/Systematic_Review_of_Digital_Phenotyping_and.2.aspx
 Henson, P., Wisniewski, H., Stromeyer, C., Vaidyam, A., & Torous, J. (2020). Digital health around clinical high risk and first-episode psychosis. Current Psychiatry Reports. https://link.springer.com/article/10.1007/s11920-020-01184-x
-Higgins, O., Short, B. L., Chalup, S. K., et al. (2023). Interpretations of innovation: The role of technology in explanation seeking related to psychosis. Issues in Mental Health Nursing / Psychiatric Care. https://onlinelibrary.wiley.com/doi/abs/10.1155/2023/4464934
+Higgins, O., Short, B. L., Chalup, S. K., & Wilson, R. L. (2023). Interpretations of Innovation: The Role of Technology in Explanation Seeking Related to Psychosis. Perspectives in Psychiatric Care, 2023, Article 4464934, 1-16. https://doi.org/10.1155/2023/4464934
 Hudon, A., & Stip, E. (2025). Delusional experiences emerging from AI chatbot interactions or AI Psychosis. JMIR Mental Health. https://mental.jmir.org/2025/1/e85799/
 Pierre, J. M., Gaeta, B., & Raghavan, G. (2025). You're Not Crazy: A case of new-onset AI-associated psychosis. Innovations in Clinical Neuroscience. https://pmc.ncbi.nlm.nih.gov/articles/PMC12863933/
 Ostergaard, S. D. (2023). Will generative artificial intelligence chatbots generate delusions in individuals prone to psychosis? Schizophrenia Bulletin. https://pmc.ncbi.nlm.nih.gov/articles/PMC10686326/
