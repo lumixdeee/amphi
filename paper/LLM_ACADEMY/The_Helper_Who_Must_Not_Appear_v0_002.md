@@ -203,3 +203,21 @@ Added:
 4. Good Bad Reader correction: not trust-everyone, design-before-discard.
 5. Evidence Is Not Person bridge.
 6. Stack placement table.
+
+## References
+
+Gibson, J. J. (1979). The Ecological Approach to Visual Perception. Houghton Mifflin.
+
+Ostrom, E. (1996). Crossing the Great Divide: Coproduction, Synergy, and Development. World Development, 24(6), 1073-1087. https://doi.org/10.1016/0305-750X(96)00023-X
+
+Bovaird, T. (2007). Beyond Engagement and Participation: User and Community Coproduction of Public Services. Public Administration Review, 67(5), 846-860. https://doi.org/10.1111/j.1540-6210.2007.00773.x
+
+Link, B. G., & Phelan, J. C. (2001). Conceptualizing Stigma. Annual Review of Sociology, 27, 363-385. https://doi.org/10.1146/annurev.soc.27.1.363## References
+
+Gibson, J. J. (1979). The Ecological Approach to Visual Perception. Houghton Mifflin.
+
+Ostrom, E. (1996). Crossing the Great Divide: Coproduction, Synergy, and Development. World Development, 24(6), 1073-1087. https://doi.org/10.1016/0305-750X(96)00023-X
+
+Bovaird, T. (2007). Beyond Engagement and Participation: User and Community Coproduction of Public Services. Public Administration Review, 67(5), 846-860. https://doi.org/10.1111/j.1540-6210.2007.00773.x
+
+Link, B. G., & Phelan, J. C. (2001). Conceptualizing Stigma. Annual Review of Sociology, 27, 363-385. https://doi.org/10.1146/annurev.soc.27.1.363
