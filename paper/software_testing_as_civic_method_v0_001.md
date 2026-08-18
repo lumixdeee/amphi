@@ -676,7 +676,7 @@ The paper should not promote this claim without more evidence.
 
 [E1] Kaner, C., Bach, J., and Pettichord, B. (2002). *Lessons Learned in Software Testing: A Context-Driven Approach.* Wiley. Covers test design, bug advocacy, documentation, automation, and test management.
 
-[E2] Kaner, C. (2006). *Software Testing as a Social Science.* STAR East presentation paper. Frames testing as investigation shaped by people, observation, and context.
+[E2] Kaner, C. (2006). Software Testing as a Social Science. Presentation at the Canadian Undergraduate Software Engineering Conference (CUSEC 2006), Montreal, Canada, January 19-21, 2006. https://kaner.com/?page_id=7
 
 [E3] ISO/IEC/IEEE. (2021). *ISO/IEC/IEEE 29119-3: Software and systems engineering, software testing, part 3: Test documentation.* Standard for test documentation templates and process artifacts.
 
