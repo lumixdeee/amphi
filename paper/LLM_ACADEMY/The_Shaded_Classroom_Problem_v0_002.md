@@ -196,3 +196,15 @@ The civic question is not only what the institution owns. It is what the world n
 ## Version notes for v0.002
 
 This version adds an affordance intake table, a MOGRI and IMAMI bridge, a direct relation to The Helper Who Must Not Appear, a Good Bad Reader fence, a success metric, and a minimal civic protocol. It preserves the original asset-first scope: the paper does not depend on any one marked helper category.
+
+## References
+
+Gibson, J. J. (1979). The Ecological Approach to Visual Perception. Houghton Mifflin.
+
+Meerow, S., Newell, J. P., & Stults, M. (2016). Defining Urban Resilience: A Review. Landscape and Urban Planning, 147, 38-49. https://doi.org/10.1016/j.landurbplan.2015.11.011
+
+Aldrich, D. P., & Meyer, M. A. (2015). Social Capital and Community Resilience. American Behavioral Scientist, 59(2), 254-269. https://doi.org/10.1177/0002764214550299
+
+Bowler, D. E., Buyung-Ali, L., Knight, T. M., & Pullin, A. S. (2010). Urban Greening to Cool Towns and Cities: A Systematic Review of the Empirical Evidence. Landscape and Urban Planning, 97(3), 147-155. https://doi.org/10.1016/j.landurbplan.2010.05.006
+
+Ostrom, E. (1996). Crossing the Great Divide: Coproduction, Synergy, and Development. World Development, 24(6), 1073-1087. https://doi.org/10.1016/0305-750X(96)00023-X
