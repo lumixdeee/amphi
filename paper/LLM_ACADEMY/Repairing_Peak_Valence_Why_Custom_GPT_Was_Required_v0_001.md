@@ -212,7 +212,7 @@ Use v0.002 or higher.
 
 Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., et al. (2020). *Language Models are Few-Shot Learners*. arXiv. https://arxiv.org/abs/2005.14165
 
-Hudon, A. (2025). *Delusional Experiences Emerging From AI Chatbot Use*. PMC Viewpoint. https://pmc.ncbi.nlm.nih.gov/articles/PMC12712562/
+Hudon, A., & Stip, E. (2025). Delusional Experiences Emerging From AI Chatbot Interactions or "AI Psychosis". JMIR Mental Health, 12, e85799. https://doi.org/10.2196/85799
 
 International Mad Studies Journal. (n.d.). Journal description and scope. https://imsj.org/
 
