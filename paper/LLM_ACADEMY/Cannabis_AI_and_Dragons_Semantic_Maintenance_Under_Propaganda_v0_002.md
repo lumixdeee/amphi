@@ -1082,4 +1082,4 @@ while everything else is judged against reality.
 
 7. Dreher, M. C., Nugent, K., and Hudgins, R. 1994. **Prenatal marijuana exposure and neonatal outcomes in Jamaica: an ethnographic study.** Pediatrics. PMID: 8121737. https://pubmed.ncbi.nlm.nih.gov/8121737/
 
-8. Dreher, M. C., Nugent, K., and Hudgins, R. 1991. **Five-year follow-up of rural Jamaican children whose mothers used marijuana during pregnancy.** West Indian Medical Journal. PMID: 1957518. https://pubmed.ncbi.nlm.nih.gov/1957518/
+8. Hayes, J. S., Lampart, R., Dreher, M. C., and Morgan, L. 1991. Five-year follow-up of rural Jamaican children whose mothers used marijuana during pregnancy. West Indian Medical Journal, 40(3), 120-123. PMID: 1957518. https://pubmed.ncbi.nlm.nih.gov/1957518/
