@@ -194,3 +194,13 @@ Milk dragon supplies the zero risk trap mechanism.
 Cfoura / 2011 feed event belongs in movement history, not necessarily in Cannabis Weather.
 Reddit is not the benchmark channel for that event.
 ```
+
+## References
+
+Biber, D. (1993). Representativeness in Corpus Design. Literary and Linguistic Computing, 8(4), 243-257. https://doi.org/10.1093/llc/8.4.243
+
+Sinclair, J. (1991). Corpus, Concordance, Collocation. Oxford University Press.
+
+McEnery, T., & Hardie, A. (2012). Corpus Linguistics: Method, Theory and Practice. Cambridge University Press. https://doi.org/10.1017/CBO9780511981395
+
+Moretti, F. (2005). Graphs, Maps, Trees: Abstract Models for a Literary History. Verso.
