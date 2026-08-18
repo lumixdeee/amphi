@@ -1073,4 +1073,4 @@ ACLU. The War on Marijuana in Black and White; marijuana arrest disparity report
 
 Cohen, A. et al. How the war on drugs impacts social determinants of health beyond the criminal legal system. Annals of Medicine, 2022.
 
-Cazalis, A. et al. Stigmatization of people with addiction by health professionals. International Journal of Environmental Research and Public Health, 2023.
+Cazalis, A., Lambert, L., & Auriacombe, M. (2023). Stigmatization of people with addiction by health professionals: Current knowledge. A scoping review. Drug and Alcohol Dependence Reports, 9, 100196. https://doi.org/10.1016/j.dadr.2023.100196
