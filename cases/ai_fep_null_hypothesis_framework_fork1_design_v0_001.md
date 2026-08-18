@@ -1,5 +1,5 @@
 ## Does AI Cause First-Episode Psychosis? 
-## A Null-Hypothesis Framework with Object Preservation, Refusal, and Frame-Contamination Controls
+## A Null-Hypothesis Framework with Object Preservation, Refusal, and Frame-Displacement Controls
 
 Fork 1: Design-framework version, v0.001
 
@@ -8,12 +8,12 @@ Fork 1: Design-framework version, v0.001
 Public discussion increasingly links artificial intelligence exposure, chatbot use, and
 anti-AI sentiment to first-episode psychosis. This fork retains the null-hypothesis
 framework of the main paper, while adding a design vocabulary for reducing object
-substitution and frame contamination in AI-mediated mental health discourse. The central
+substitution and frame displacement in AI-mediated mental health discourse. The central
 null hypothesis is that AI exposure and anti-AI sentiment are not independent causal risk
 factors for diagnosed first-episode psychosis, schizophrenia-spectrum outcomes, mania,
 hypomania, psychotic mania, or affective psychosis after accounting for bullying, social
 defeat, prodromal symptoms, sleep disruption, substance use, baseline vulnerability, online
-conflict, and frame contamination. The design fork adds four conceptual controls: Mogri,
+conflict, and frame displacement. The design fork adds four conceptual controls: Mogri,
 ADUTI, REFRI, and AMPHI. These terms are treated as design heuristics, not as clinical
 evidence. Mogri preserves unresolved intent without premature substitution. ADUTI audits
 whether input and output preserve role, intent, and constraints. REFRI refuses
@@ -31,7 +31,7 @@ H0: AI exposure and anti-AI sentiment are not independent causal risk factors fo
 first-episode psychosis, schizophrenia-spectrum outcomes, mania, hypomania, psychotic mania,
 affective psychosis, brief psychotic disorder, or substance-induced psychosis after
 accounting for bullying, social defeat, prodromal symptoms, sleep disruption, substance use,
-baseline vulnerability, online conflict, and frame contamination.
+baseline vulnerability, online conflict, and frame displacement.
 
 This fork keeps the main
 clinical claim intact. AI may be a content-shaping context, a documentation environment, or
@@ -39,7 +39,7 @@ an interactional amplifier for some users, but current evidence does not justify
 as an established cause of first-episode psychosis. The added contribution is a design
 framework for reducing the ways AI systems can mis-handle user meaning.
 
-Required distinctions
+# Required distinctions
 
 The framework always separates criticism, fear, activism, threat fixation, and persecutory
 belief. This separation protects legitimate AI criticism from being treated as illness.
@@ -50,9 +50,9 @@ AI fear | Anxiety or worry about AI systems, AI-mediated institutions, or future
 Anti-AI activism | Organized objection, protest, posting, research, tool-building, or advocacy against AI harms. | Not pathological by default.
 AI-related threat fixation | Recurrent, escalating, high-distress focus on AI as danger. | Possible risk marker when paired with impairment.
 AI-related persecutory belief | Fixed, personalized belief that AI is targeting, controlling, monitoring, or communicating with the person. | Potential psychosis-relevant content.
-Frame contamination | AI-related language alters how distress is interpreted, remembered, reported, or documented. | A meaning-making mechanism, not necessarily a cause.
+Frame displacement | AI-related language alters how distress is interpreted, remembered, reported, or documented. | A meaning-making mechanism, not necessarily a cause.
 
-Design controls added in Fork 1
+# Design controls added in Fork 1
 
 This fork treats Mogri, ADUTI, REFRI, and AMPHI as conceptual design controls. They are not
 proposed as diagnostic instruments. They are safeguards for language, object fidelity, and
@@ -62,9 +62,9 @@ Control | Function | Operational role
 Mogri | Object preservation under uncertainty | Preserve unresolved intent without forcing premature explanation or replacing the user object.
 ADUTI | After-transformation object audit | Compare object-in with object-out. A transformation passes only when role, intent, and constraints survive.
 REFRI | Refusal for object substitution | Refuse or redirect when a transformation swaps the object for a proxy, hides drift, removes veto, or optimizes a metric over intent.
-AMPHI | Frame-contamination guard | Prevent imported frames, especially unrequested diagnosis, therapy framing, moral lecture, surveillance framing, or system-preferred safety theater.
+AMPHI | Frame-displacement guard | Prevent imported frames, especially unrequested diagnosis, therapy framing, moral lecture, surveillance framing, or system-preferred safety theater.
 
-Causal model
+# Causal model
 
 The main model rejects a simple causal chain in which AI exposure directly causes first-
 episode psychosis. The preferred test compares four alternatives.
@@ -80,7 +80,7 @@ H3: Social defeat pathway.
 Anti-AI activity increases bullying, ridicule, ostracism, reputational harm, or online
 conflict, which increases stress load and risk.
 
-H4: Frame contamination. AI language shapes
+H4: Frame displacement. AI language shapes
 later accounts of distress, making AI appear causal even when it is better understood as
 narrative material, interactional context, or documentation artifact.
 
@@ -92,7 +92,7 @@ user object with a proxy. For example, a user asks about social hostility, and t
 reframes the problem as personal pathology. Mogri, ADUTI, REFRI, and AMPHI are intended to
 reduce this failure mode.
 
-Bullying and social defeat as priority pathways
+# Bullying and social defeat as priority pathways
 
 Bullying is treated as both confounder and mediator. It may precede anti-AI activity, shape
 the person’s online environment, and elevate baseline risk. It may also follow anti-AI
@@ -105,21 +105,22 @@ reason the paper should not claim that anti-AI sentiment causes psychosis. A str
 more testable claim is that anti-AI visibility may increase exposure to bullying, and
 bullying or social defeat may elevate risk in already vulnerable people.
 
-Frame contamination
+# Frame displacement
 
-Frame contamination occurs when a system imports an explanatory frame that was not warranted
+Frame displacement occurs when a system imports an explanatory frame that was not warranted
 by the user object. In this paper, the highest-risk imported frames are clinical suspicion,
 moral judgment, surveillance, safety theater, and premature causal attribution. A user may
 ask whether AI caused psychosis. The model may import the frame "AI-induced psychosis"
 because it is available in public discourse. That frame can then shape later memory,
 reporting, family interpretation, media coverage, and clinical intake.
 
-The design
+# The design
+
 intervention is not to deny AI-related harms. The intervention is to preserve the question,
 preserve the object, and separate cause, context, amplification, documentation, and
 narrative after the fact.
 
-Proposed methods
+# Proposed methods
 
 Study design A: Diagnosed cohort study. Recruit participants at clinical high risk, in early
 mania-spectrum care, or in first-episode services. Measure AI exposure, AI criticism, AI
@@ -172,7 +173,7 @@ Secondary design outcomes: reduction in causal overclaim, reduction in
 pathologizing AI criticism, better distinction between cause and content, and better
 preservation of bullying as a candidate pathway.
 
-Predictions
+# Predictions
 
 Prediction 1: AI exposure will not remain an independent predictor of diagnosed first-
 episode psychosis or mania-spectrum outcomes after adjustment for bullying, social defeat,
@@ -184,7 +185,7 @@ The apparent anti-AI effect may therefore be social, not technological.
 
 Prediction 3: AI-
 centered narratives will often increase after symptoms, sleep loss, online conflict, or
-mania-spectrum activation, supporting reverse causation or frame contamination.
+mania-spectrum activation, supporting reverse causation or frame displacement.
 
 Prediction
 4: Design controls will reduce object substitution and causal overstatement in AI responses
@@ -195,7 +196,7 @@ uninformative unless paired with personalization, persecutory certainty, impairm
 disruption, functional decline, hallucinations, mania-spectrum activation, or disorganized
 behavior.
 
-Ethical guardrails
+# Ethical guardrails
 
 The framework must not be used to score anti-AI criticism as mental illness. The unit of
 concern is not political disagreement with AI systems. The unit of concern is diagnosed
@@ -206,7 +207,7 @@ separation between research and platform enforcement. Public posts should not be
 clinical labels. Design-control studies can use synthetic prompts and blinded raters before
 any work with patient data.
 
-Discussion
+# Discussion
 
 This fork strengthens the main paper by adding a design account of how AI systems can mis-
 handle meaning without becoming a primary cause of first-episode psychosis. The recurring
@@ -221,14 +222,13 @@ transformations, refuse proxy swaps, and guard against imported frames. These co
 not prove that AI is safe. They make the causal question more testable by reducing the very
 distortions that make AI appear more causal than the evidence supports.
 
-The clinical
-conclusion remains conservative. AI may amplify delusional material in vulnerable users,
+The clinical conclusion remains conservative. AI may amplify delusional material in vulnerable users,
 validate unusual beliefs, or provide language that later organizes distress. These are
 important interactional risks. They do not establish that AI causes first-episode psychosis.
 Bullying, social defeat, prodromal symptoms, mania-spectrum activation, sleep disruption,
 substance use, and baseline vulnerability remain higher-priority explanations.
 
-Conclusion
+# Conclusion
 
 The null-hypothesis framework should be retained. AI exposure and anti-AI sentiment should
 not be treated as independent causal risk factors for first-episode psychosis or mania-
@@ -236,9 +236,9 @@ spectrum outcomes unless they predict diagnosed onset after adjustment for estab
 risks. Fork 1 adds a design framework for preventing AI systems from importing the wrong
 frame or substituting the user object. The best current research question is not "Does AI
 cause psychosis?" It is "When AI appears in the story, is it cause, content, amplifier,
-archive, social trigger, or contaminated frame?"
+archive, social trigger, or displaced frame?"
 
-Repository source links for Fork 1 concepts
+# Repository source links for Fork 1 concepts
 
 The following GitHub links correspond to the repository files that inspired the design
 vocabulary in this fork. These links are conceptual sources only. They are not clinical data
@@ -254,7 +254,7 @@ AMPHI definitions | https://github.com/lumixdeee/amphi/blob/main/amphi-definitio
 AI psychosis conceptual case note | https://github.com/lumixdeee/amphi/blob/main/cases/AI-psychosis
 LMXDI blob explainer | https://github.com/lumixdeee/lmxdi/blob/main/BLOB/20260529-blob-explainer.txt
 
-References
+# References
 
 van Dam, D. S., van der Ven, E., Velthorst, E., Selten, J. P., Morgan, C., & de Haan, L. (2012). Childhood bullying and the association with psychosis in non-clinical and clinical samples: A review and meta-analysis. Psychological Medicine. https://www.cambridge.org/core/journals/psychological-medicine/article/childhood-bullying-and-the-association-with-psychosis-in-nonclinical-and-clinical-samples-a-review-and-metaanalysis/37AEFA25941F3BDCD039DAFC4EDC22F7
 Varchmin, L., Montag, C., Treusch, Y., Kaminski, J., & Heinz, A. (2021). Traumatic events, social adversity and discrimination as risk factors for psychosis: An umbrella review. Frontiers in Psychiatry. https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.665957/full
