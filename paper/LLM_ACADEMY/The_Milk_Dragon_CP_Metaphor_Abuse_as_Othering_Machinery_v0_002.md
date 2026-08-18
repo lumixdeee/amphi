@@ -517,3 +517,13 @@ block the stain-route
 The Dragon wins when a person becomes a substance.
 
 The Dragon loses when the object survives.
+
+## References
+
+Haslam, N. (2006). Dehumanization: An Integrative Review. Personality and Social Psychology Review, 10(3), 252-264. https://doi.org/10.1207/s15327957pspr1003_4
+
+Phelan, J. C., Link, B. G., & Dovidio, J. F. (2008). Stigma and Prejudice: One Animal or Two? Social Science & Medicine, 67(3), 358-367. https://doi.org/10.1016/j.socscimed.2008.03.022
+
+Harris, L. T., & Fiske, S. T. (2006). Dehumanizing the Lowest of the Low: Neuroimaging Responses to Extreme Out-Groups. Psychological Science, 17(10), 847-853. https://doi.org/10.1111/j.1467-9280.2006.01793.x
+
+Thibodeau, P. H., & Boroditsky, L. (2011). Metaphors We Think With: The Role of Metaphor in Reasoning. PLOS ONE, 6(2), e16782. https://doi.org/10.1371/journal.pone.0016782
