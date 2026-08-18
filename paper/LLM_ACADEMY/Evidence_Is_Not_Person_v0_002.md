@@ -198,3 +198,12 @@ A later version should add examples from four domains: AI transcript review, psy
 
 v0.003 may also add a short relation map: Elves Shelved means origin is not verdict; Psychosis_Gate means strange speech is not invalidity; Mogric Reading means read without collapse; Evidence Is Not Person means fragment is not person.
 
+## References
+
+Jones, E. E., & Harris, V. A. (1967). The attribution of attitudes. Journal of Experimental Social Psychology, 3(1), 1-24. https://doi.org/10.1016/0022-1031(67)90034-0
+
+Goddu, A. P., O'Conor, K. J., Lanzkron, S., Saheed, M. O., Saha, S., Peek, M. E., Haywood, C., Jr., & Beach, M. C. (2018). Do Words Matter? Stigmatizing Language and the Transmission of Bias in the Medical Record. Journal of General Internal Medicine, 33(5), 685-691. https://doi.org/10.1007/s11606-017-4289-2
+
+Park, J., Saha, S., Chee, B., Taylor, J., & Beach, M. C. (2021). Physician Use of Stigmatizing Language in Patient Medical Records. JAMA Network Open, 4(7), e2117052. https://doi.org/10.1001/jamanetworkopen.2021.17052
+
+Tversky, A., & Kahneman, D. (1981). The Framing of Decisions and the Psychology of Choice. Science, 211(4481), 453-458. https://doi.org/10.1126/science.7455683
