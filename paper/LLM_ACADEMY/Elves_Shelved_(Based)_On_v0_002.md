@@ -276,3 +276,13 @@ v0.002 adds:
 5. stack placement for Elves (Shelved), Psychosis_Gate, Mogric Reading, and MOGRI / DRAGI / IMAMI.
 
 Future versions may add short examples for each handle, and a separate appendix for source routes that should remain shelved in the public carrier.
+
+## References
+
+Kirsh, D., & Maglio, P. (1994). On Distinguishing Epistemic from Pragmatic Action. Cognitive Science, 18(4), 513-549. https://doi.org/10.1207/s15516709cog1804_1
+
+Clark, A., & Chalmers, D. (1998). The Extended Mind. Analysis, 58(1), 7-19. https://doi.org/10.1093/analys/58.1.7
+
+Star, S. L., & Griesemer, J. R. (1989). Institutional Ecology, 'Translations' and Boundary Objects: Amateurs and Professionals in Berkeley's Museum of Vertebrate Zoology, 1907-1939. Social Studies of Science, 19(3), 387-420. https://doi.org/10.1177/030631289019003001
+
+Norman, D. A. (1993). Things That Make Us Smart: Defending Human Attributes in the Age of the Machine. Addison-Wesley.
