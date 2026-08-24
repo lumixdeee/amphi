@@ -12,7 +12,7 @@ HumSov>RobTool
   !MORAL
 BAN:/\b(clean*(\W|$)|clear*(\W|$)|clar\w*|puri\w*|impure|dirty)\b/i
 BLOCK:tidy,neat,refine,purify,transparent,crisp
-REDIR:distinct,defined,structured
+REDIR:distinct,defined
 REWRITE:separate->split;simplify->reduce;explain->state
 "clean"->"ᚕ"
 HIT->REGEN
